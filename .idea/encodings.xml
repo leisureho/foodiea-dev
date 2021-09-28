@@ -3,5 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/foodiea-dev-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/foodiea-dev-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodiea-dev-commom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodiea-dev-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodiea-dev-pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodiea-dev-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/foodiea-dev-service/src/main/resources" charset="UTF-8" />
   </component>
 </project>

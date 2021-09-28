@@ -11,9 +11,6 @@
 
     <artifactId>foodiea-dev-mapper</artifactId>
 
-    <!--
-        mapper -> pojo -> common
-        -->
     <dependencies>
         <dependency>
             <groupId>com.he</groupId>
